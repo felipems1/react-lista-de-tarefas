@@ -2,7 +2,7 @@
 
 Tecnologias usadas: React | JavaScript | Styled Components | React-Router | Axios.
 
-https://user-images.githubusercontent.com/111329429/196059515-615afd42-0ea2-4ccd-88b3-3570e27080f3.mp4
+https://user-images.githubusercontent.com/111329429/196062090-39b754a0-852a-49e3-9a31-85fd0436fe0a.mp4
 
 ### Instalação
 - `npm install`
