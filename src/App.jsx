@@ -58,7 +58,7 @@ const App = () => {
       <C.Container>
         <Header />
         <Routes>
-        <Route path='/' exact element={
+        <Route path='/' element={
             <>
               <AddTask handleTaskAddition={handleTaskAddition} />
               <Tasks 
@@ -68,7 +68,7 @@ const App = () => {
               />
             </>
           } />
-          <Route path='/:taskTitle' exact element={<TaskDetails />}/>
+          <Route path='/:taskTitle' element={<TaskDetails />}/>
         </Routes>
       </C.Container>
     </BrowserRouter>  
