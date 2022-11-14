@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Lista de tarefa com as função de adicionar e remove tarefas.
+Lista de tarefas com as função de adicionar e remove tarefas.
 
 ---
 
