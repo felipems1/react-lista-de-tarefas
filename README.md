@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Lista de tarefas com as função de adicionar e remove tarefas.
+Lista de tarefas consumindo uma API, com as função de adicionar e remove tarefas.
 
 ---
 
-[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/) 
+[Link do meu perfil no Linkedin.](https://www.linkedin.com/in/felipe-moises-4a1b58248/)
