@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Lista de tarefas consumindo uma API, com as função de adicionar e remove tarefas.
+Você pode visualizar o projeto através [DESSE LINK](https://app-lista-tarefas.netlify.app/).
 
 ---
 
